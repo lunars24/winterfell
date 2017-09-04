@@ -1,0 +1,20 @@
+a
+{
+    font-size:25px;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif
+}
+
+body
+{
+    line-height: 25px;
+}
+
+.btn
+{
+color: #0A0B09;   
+background-color:  #08FAF3;
+
+width: 100px;
+font-size: 20px;
+}
